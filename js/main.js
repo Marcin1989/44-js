@@ -4,7 +4,7 @@ let tablicaKeo = [108, 22, 55]
 
 function first(zenek) {
 
-    return [ zenek[0], zenek[1] ]
+    return  zenek[0];
 
 };
 
